@@ -1,29 +1,9 @@
 ![](media/blog-cover.png)
 
-# **Healthify** 
+# **HealthFit** 
 
 **Healthify** is an app to track your daily water intake and sleep and boost your work efficiency.
 
-# Video Introduction 📹
-
-This is a small introduction video about healthify https://youtu.be/QiP8NkIqVQs.
-
-# Blog ✍
-
-To know more about how I build this project, read my article on https://vaibhav2002.hashnode.dev/healthify-an-app-to-track-your-daily-water-intake-and-sleep-and-boost-your-work-efficiency-auth0hackathon
-
-# Application Install
-
-***You can Install and test latest Healthify app from below 👇***
-
-[![Healthify](https://img.shields.io/badge/Healthify✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Vaibhav2002/Healthify/releases/tag/v1.0.0)
-
-## Setup
-- Clone the repository on your machine.
-- Create project in Firebase, enable firestore, set rules to public and download google-services.json and paste in the app folder.
-- Sign up for auth0 and do as stated below
-
-Open strings.xml and add Auth0 credentials 
 
 ```xml
 
