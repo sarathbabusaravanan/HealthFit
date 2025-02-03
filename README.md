@@ -51,19 +51,19 @@ It uses Firebase and Auth0 as its backend. It uses Auth0 for email based auth an
 
 ![](media/light_dark.png)
 
-**Healthify** offers light as well as dark theme 🌓. So now you can use Healthify in whatever theme you like the most. 🔥
+**HealthFit** offers light as well as dark theme 🌓. So now you can use Healthify in whatever theme you like the most. 🔥
 
 
 ![](media/slide-1.png)
 
 
-**Healthify** has a clean and sleek user interface which makes it easy for people of all age groups use it. 😁
+**HealthFit** has a clean and sleek user interface which makes it easy for people of all age groups use it. 😁
 
 
 ![](media/slide-2.png)
 
 
-**Healthify** uses Auth0 for authentication. It supports email-based authentication as well as Google authentication. **Healthify** also has a smooth user onboarding process.
+**HealthFit** uses Auth0 for authentication. It supports email-based authentication as well as Google authentication. **Healthify** also has a smooth user onboarding process.
 
 
 ![](media/slide-3.png)
@@ -79,7 +79,7 @@ Have a look at your daily sleep 😴 amount and statistics of your sleep in the 
 
 ![](media/slide-5.png)
 
-**Healthify** has a XP based ranking system which ranks you among other users. XP can be gained by adding water and sleep. Having such ranking system in this app will make users compete and hence make it a habit of users to drink water and get enough sleep
+**HealthFit** has a XP based ranking system which ranks you among other users. XP can be gained by adding water and sleep. Having such ranking system in this app will make users compete and hence make it a habit of users to drink water and get enough sleep
 
 ## 📸 Screenshots
 
@@ -93,12 +93,12 @@ Have a look at your daily sleep 😴 amount and statistics of your sleep in the 
 
 ### Technical details 
 
-- Healthify uses Auth0 for user authentication, it supports email based authentication and Google authentication
-- Healthify uses Firebase Firestore as it's primary database.
-- Healthify has full offline support, it uses Android's ROOM database for caching all data offline.
-- Healthify is made using Kotlin and following Modern Android Development practices.
-- Healthify uses all Jetpack libraries and follows MVVM architecture. It also has a G.O.A.T rating in Android's  M.A.D scorecard.
-- Healthify's code follows all the best practices and software development principles which make it a very good learning resource for beginners.
+- HealthFit uses Auth0 for user authentication, it supports email based authentication and Google authentication
+- HealthFit uses Firebase Firestore as it's primary database.
+- Healthfit has full offline support, it uses Android's ROOM database for caching all data offline.
+- HealthFit is made using Kotlin and following Modern Android Development practices.
+- HealthFit uses all Jetpack libraries and follows MVVM architecture. It also has a G.O.A.T rating in Android's  M.A.D scorecard.
+- HealthFit's code follows all the best practices and software development principles which make it a very good learning resource for beginners.
 
 ![summary.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1629894600750/lYuPA7nYY.png)
 
